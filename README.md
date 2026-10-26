@@ -10,4 +10,6 @@
 ブロックの色はScratchと同じ（動き＝青、制御＝オレンジ、調べる＝水色）。「Scratchの ことば」ボタンでScratchのブロック名を併記、各章クリア時に対応表を表示します。進み具合はブラウザ（localStorage）に保存。
 
 ## 構成
+**公開ページ:** https://code-lab-beige.vercel.app/
+
 `index.html` 1枚だけ（ビルドなし）。Vercelはそのまま静的配信。
